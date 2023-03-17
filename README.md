@@ -1,4 +1,5 @@
-# Landing-Page-using-HTML-SCSS-and-JavaScript
+# Landing-Page-using-HTML-SCSS-and-JavaScript (Mobile and Desktop Application)
+
 First Frontend Mentor Application 
 
 ![image](https://user-images.githubusercontent.com/73253420/225981441-8a336c36-535c-42e1-b5c8-da7f1539c33f.png)
